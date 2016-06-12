@@ -1,6 +1,6 @@
-# Express ES2015 browserify Starter
+# ES2015 Starter
 
- A base proyect with Express, Browserify, all plugins needed for EcmaScript 2015 and pug.
+ A base proyect for ES2015 with Express, Browserify, all plugins needed for EcmaScript 2015 and pug.
 
 ## Installation
 
