@@ -1,5 +1,5 @@
 {
-  "name": "ES2015 Starter",
+  "name": "ES2015-Starter",
   "version": "0.0.1",
   "description": "Base starter for ES2015 with express and browserify",
   "main": "server.js",
